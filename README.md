@@ -18,7 +18,7 @@
 
 <br>
 
-# 🏅 Displaying Achievements 🏅
+# 🏅 Displaying Achievements 🏅 67
 
 #### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
 
